@@ -33,4 +33,4 @@ Expected Outcomes:
 Impact:
 •	Improved understanding of customer sentiment and its changes over time.
 •	Opportunities for proactive response to negative sentiment trends, such as product improvements or customer service enhancements.
-•	Enhanced customer satisfaction and loyalty, leading to increased sales and growth for the e-commerce site.
+•	Enhanced customer satisfaction and loyalty, leading to increased sales and growth for the e-commerce site.  
