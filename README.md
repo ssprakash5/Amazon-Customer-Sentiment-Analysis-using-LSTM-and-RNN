@@ -23,9 +23,7 @@ Project Objectives:
 4.	Deep Learning for Sentiment Trends (Optional):
 •	Experiment with deep learning models, such as recurrent neural networks (RNNs) or Transformers, to capture complex temporal dependencies in customer sentiment data.
 •	Train a model to predict future sentiment trends based on historical data.
-5.	Dashboard and Reporting:
-•	Create an interactive dashboard that provides real-time sentiment analysis and historical sentiment trend visualizations.
-•	Generate reports with insights and recommendations for the e-commerce platform to improve customer satisfaction.
+
 Expected Outcomes:
 •	Accurate sentiment analysis models capable of classifying customer sentiment.
 •	Visualizations and insights into customer sentiment trends over time.
