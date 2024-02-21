@@ -7,8 +7,7 @@
 
 This project aims to develop a sophisticated system for tracking and analyzing customer sentiment over time in an e-commerce environment. By utilizing machine learning and deep learning methods, large volumes of customer data, including reviews, comments, and feedback, will be processed to gain valuable insights into customer satisfaction and product trends.
 
-![Uploading gif-20240221-120804.gif…]()
-
+![gif-20240221-120804](https://github.com/ssprakash5/Amazon-Customer-Sentiment-Analysis-using-LSTM-and-RNN/assets/154003057/f4b503fe-d8fd-42e2-a3ce-8f4bc6b1bc6b)
 ## Skills and Technologies Utilized
 
 - Machine Learning (Natural Language Processing)
