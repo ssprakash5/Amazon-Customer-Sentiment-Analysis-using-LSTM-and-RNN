@@ -30,6 +30,7 @@ This project aims to develop a sophisticated system for tracking and analyzing c
 
 - Develop a machine learning model, such as a supervised classifier (e.g., Naive Bayes, SVM) or a deep learning model (e.g., LSTM, Transformer), to perform sentiment analysis on customer reviews.
 - Train the model to classify reviews as positive, negative, or neutral based on the text content.
+![sentiment analysis](https://github.com/ssprakash5/Amazon-Customer-Sentiment-Analysis-using-LSTM-and-RNN/assets/154003057/5979432d-3265-41c2-aef0-21bf98cabf6e)
 
 ### Time Series Analysis of Sentiment Trends
 
