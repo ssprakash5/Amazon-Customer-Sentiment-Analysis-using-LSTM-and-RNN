@@ -41,13 +41,13 @@ This project aims to develop a sophisticated system for tracking and analyzing c
 
 - Experiment with deep learning models, such as recurrent neural networks (RNNs) or Transformers, to capture complex temporal dependencies in customer sentiment data.
 - Train a model to predict future sentiment trends based on historical data.
-
+![Tokenization](https://github.com/ssprakash5/Amazon-Customer-Sentiment-Analysis-using-LSTM-and-RNN/assets/154003057/cc89e8fd-00a7-43fc-a781-fc7b4ccbff1a)
+![RNN gif](https://github.com/ssprakash5/Amazon-Customer-Sentiment-Analysis-using-LSTM-and-RNN/assets/154003057/6f98adb9-a0c8-4d08-8761-5358d207fe35)
+![LSTM](https://github.com/ssprakash5/Amazon-Customer-Sentiment-Analysis-using-LSTM-and-RNN/assets/154003057/38c8858e-091e-41df-ad7c-d8ddb01a265f)
 ## Expected Outcomes
-
 - Accurate sentiment analysis models capable of classifying customer sentiment.
 - Visualizations and insights into customer sentiment trends over time.
 - An interactive dashboard for real-time monitoring of customer sentiment.
-
 ## Impact
 
 - Improved understanding of customer sentiment and its changes over time.
