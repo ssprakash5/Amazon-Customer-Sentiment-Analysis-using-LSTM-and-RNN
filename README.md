@@ -1,5 +1,10 @@
 # Amazon-Customer-Sentiment-Analysis-using-LSTM-and-RNN
-![Customer Sentiment Analysis](https://github.com/ssprakash5/Amazon-Customer-Sentiment-Analysis-using-LSTM-and-RNN/assets/154003057/594e907b-4102-4014-bece-00dbe5264733)
+![Sen brand avg score](https://github.com/ssprakash5/Amazon-Customer-Sentiment-Analysis-using-LSTM-and-RNN/assets/154003057/d92a9f6d-84b8-4600-aa73-3863ccffef34)
+![ACS overall sentiment asin](https://github.com/ssprakash5/Amazon-Customer-Sentiment-Analysis-using-LSTM-and-RNN/assets/154003057/e1919be9-6b46-4aa9-b919-971a6a9c75a5)
+![ACS sen product score](https://github.com/ssprakash5/Amazon-Customer-Sentiment-Analysis-using-LSTM-and-RNN/assets/154003057/5f5ed076-2ddb-492d-ace9-62a2e18b1e3a)
+![ACS moving average of each brand](https://github.com/ssprakash5/Amazon-Customer-Sentiment-Analysis-using-LSTM-and-RNN/assets/154003057/5fe521ba-3496-4899-bc32-f669a504ddaf)
+![ACS product sen12](https://github.com/ssprakash5/Amazon-Customer-Sentiment-Analysis-using-LSTM-and-RNN/assets/154003057/f7374f9d-ab54-4294-8c82-ea4d65232867)
+
 
 # Customer Sentiment Tracking in E-commerce: A Machine Learning and Deep Learning Approach
 
